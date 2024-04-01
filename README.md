@@ -1,7 +1,7 @@
 ### Holaaa alumnos, aqui teneis que escribir vuestra carta de presentación 👋
 # Os podéis ayudar de un perfil editado muy chulo como es el siguiente:
 # https://github.com/mouredev
-[lovepik-dad-and-son-sitting-on-the-sofa-and-having-fun-picture-501781319.jpg](https://postimg.cc/0bfpWDRr)
+[![lovepik-dad-and-son-sitting-on-the-sofa-and-having-fun-picture-501781319.jpg](https://i.postimg.cc/DwVBzPxQ/lovepik-dad-and-son-sitting-on-the-sofa-and-having-fun-picture-501781319.jpg)](https://postimg.cc/0bfpWDRr)
 <!--
 **joseluboa/joseluboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
