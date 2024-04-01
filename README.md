@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Holaaa alumnos, aqui teneis que escribir vuestra carta de presentación 👋
+# Os podéis ayudar de un perfil editado muy chulo como es el siguiente:
+# https://github.com/mouredev
 <!--
 **joseluboa/joseluboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
